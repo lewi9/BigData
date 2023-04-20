@@ -1,5 +1,6 @@
 # BigData
-Author: Adam Lewiński\
+Author: Adam Lewiński
+
 Based on materials provided by Krzysztof Nojman.
 
 ## Lab 1
