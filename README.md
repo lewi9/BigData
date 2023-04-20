@@ -1,4 +1,6 @@
 # BigData
+Author: Adam Lewiński
+Based on materials provided by Krzysztof Nojman.
 
 ## Lab 1
 
@@ -18,4 +20,5 @@ Functions to pre-process data (replaces, regex, nulls), udf functions, agregate 
 
 ## Lab 5-6
 
-Different type of joins, Proofe of Concept, description of Azure Tools for big data (POC - english, Azure Tools - Polish)
+Different type of joins, Proofe of Concept, description of Azure Tools for big data (PoC - english, Azure Tools - Polish)
+PoC idea is 100% my.
