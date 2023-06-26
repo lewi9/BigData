@@ -1,0 +1,9 @@
+setup.py
+appSpark/DataReader.py
+appSpark/DataTransformer.py
+appSpark/DataWriter.py
+appSpark/main.py
+appSpark.egg-info/PKG-INFO
+appSpark.egg-info/SOURCES.txt
+appSpark.egg-info/dependency_links.txt
+appSpark.egg-info/top_level.txt
